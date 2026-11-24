@@ -15,3 +15,6 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 ## Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: **sumitoza28@gmail.com**
+
+Advertising (Google AdMob):
+This app uses Google AdMob to display optional rewarded and interstitial advertisements. Google AdMob may collect and use device identifiers (such as the Android Advertising ID) and non-personal usage data to serve ads in accordance with Google's Privacy Policy (https://policies.google.com/privacy). The app itself does not collect or store any personal user data on external servers.
